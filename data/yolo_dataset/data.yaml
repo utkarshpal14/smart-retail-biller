@@ -1,0 +1,6 @@
+path: yolo_dataset
+train: ./yolo_dataset/images/train
+val: ./yolo_dataset/images/val
+
+nc: 2
+names: ['20-20_bis', 'maggi_noodles']
